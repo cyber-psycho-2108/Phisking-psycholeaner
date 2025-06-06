@@ -23,7 +23,7 @@ Installation
 
 Just, Clone this repository -
 
-git clone --depth=1 https://github.com/htr-tech/zphisher.git
+git clone --depth=1 https://github.com/cyber-psycho-2108/Phisking-psycholeaner.git
 
 Now go to cloned directory and run zphisher.sh -
 
@@ -34,7 +34,7 @@ $ bash zphisher.sh
 
 Installation (Termux)
 
-You can easily install zphisher in Termux by using tur-repo
+You can easily install zphisher in Termux
 
 $ pkg install tur-repo
 $ pkg install zphisher
